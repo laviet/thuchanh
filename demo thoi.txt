@@ -2,4 +2,5 @@
 2 cua master
 3 cua master 3
 4 day la cua master 1
+10 them tu master 1
 
